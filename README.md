@@ -1,2 +1,2 @@
 # scrapper
-Scrapper in Go
+Scrapper in Python
